@@ -1,12 +1,12 @@
 {
-  "simson":  "open"   ,
+  "simson":  "nope"   ,
   "simson1":  "Close"   ,
-  "simson2":  "open"   ,
+  "simson2":  "nope"   ,
   "simson3":  "Close"   ,
-  "simson4":  "open"   ,
+  "simson4":  "nope"   ,
   "simson5":  "Close"   ,
-  "simson6":  "open"   ,
+  "simson6":  "nope"   ,
   "simson7":  "Close"   ,
-  "simson8":  "open"   ,
+  "simson8":  "nope"   ,
   "simson9":  "Close"   
 }
